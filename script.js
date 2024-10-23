@@ -1,5 +1,5 @@
 // Configurações do Backendless
-Backendless.initApp("YOUR_APP_ID", "YOUR_API_KEY");
+Backendless.initApp("1FECB8E7-B447-487C-A8A7-1D4C293EE0F5", "B1F87A00-8E81-408D-83F9-87C80E68D615);
 
 // Cadastro do Candidato
 document.getElementById('cadastroForm').addEventListener('submit', function(event) {
